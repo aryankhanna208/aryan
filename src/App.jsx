@@ -29,10 +29,10 @@ const siteProps = {
   email: "devaryan.khanna@studentambassadors.com",
   gitHub: "aryankhanna208",
   instagram: "aryankhanna208",
-  linkedIn: "Dev Aryan Khanna",
+  linkedIn: "dev-aryan-khanna-964baa257",
   medium: "",
-  twitter: "Dev Aryan Khanna",
-  youTube: "IoSC EDC",
+  twitter: "Aryan33114693",
+  youTube: "@IoSCUSAR",
 };
 
 const primaryColor = "#4E567E";

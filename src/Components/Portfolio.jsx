@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A-Eye",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A-Eye is a web application that helps visually impaired people to navigate through the world. It uses Azure Cognitive Services to detect objects and people in the surroundings and describes them to the user.",
+    url: "devmesh.intel.com/projects/a-eye",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Smart Kart",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Smart Devices that helps you skip queues and shop smartly. It uses Azure Cognitive Services to detect objects and people in the surroundings and describes them to the user.",
+    url: "devmesh.intel.com/projects/smart-kart",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://aryankhanna208.github.io/aryan/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "IoSC EDC founder & Lead",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I founded the IoSC EDC and lead it. We have 100+ members and have conducted 10+ events. We have also collaborated with 10+ communities and have 5+ sponsors.",
+    url: "Ioscusar.tech",
   },
 ];
 
